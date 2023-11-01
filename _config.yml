@@ -22,7 +22,7 @@ title: Modeling, Optimization, Simulation, Artificial Intelligence and Computati
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Pioneering innovation through advanced computation at the intersection of modeling, simulation, AI, and optimization.
-baseurl: "ucf-mosaic-lab.github.io" # the subpath of your site, e.g. /blog
+# baseurl: "ucf-mosaic-lab.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SMSTUCF
 github_username: ucf-mosaic-lab
